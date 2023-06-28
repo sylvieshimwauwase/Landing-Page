@@ -1,0 +1,1 @@
+this is second week project aiming at designing the landing page
